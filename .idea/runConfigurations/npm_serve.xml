@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="npm serve" type="js.build_tools.npm" singleton="false">
+    <package-json value="$PROJECT_DIR$/depression-detector-frontend/package.json" />
+    <command value="run" />
+    <scripts>
+      <script value="serve" />
+    </scripts>
+    <node-interpreter value="$PROJECT_DIR$/../../../../Program Files/nodejs/npm" />
+    <package-manager value="C:\Program Files\nodejs\npm.cmd" />
+    <envs />
+    <method v="2" />
+  </configuration>
+</component>
