@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Depression_Detect.iml" filepath="$PROJECT_DIR$/Depression_Detect.iml" />
       <module fileurl="file://$PROJECT_DIR$/depression-detector-frontend/depression-detector-frontend.iml" filepath="$PROJECT_DIR$/depression-detector-frontend/depression-detector-frontend.iml" />
     </modules>
   </component>
